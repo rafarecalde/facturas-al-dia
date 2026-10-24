@@ -13,7 +13,8 @@ nav{display:flex;align-items:center;gap:22px}nav a{text-decoration:none;color:va
 .ey{display:inline-flex;align-items:center;gap:6px;font-size:13px;font-weight:700;letter-spacing:.08em;text-transform:uppercase;color:var(--p)}.ey.lt{color:#9fe3da}
 .hero{position:relative;color:#fff;background:linear-gradient(100deg,rgba(8,26,38,.94) 0%,rgba(8,40,50,.86) 45%,rgba(8,60,62,.55) 100%),var(--img) center/cover;padding:56px 0 64px}
 .hg{display:grid;grid-template-columns:1.15fr .85fr;gap:48px;align-items:center}
-.hero h1{font-size:clamp(32px,4.4vw,52px);line-height:1.08;letter-spacing:-.02em;margin:14px 0 16px}.lead{font-size:19px;color:#d6e4ea;max-width:600px;margin:0 0 22px}
+.hero h1{font-size:clamp(32px,4.4vw,52px);line-height:1.08;letter-spacing:-.02em;margin:14px 0 16px}.lead{font-size:19px;color:#d6e4ea;max-width:600px;margin:0 0 16px}
+.proof{margin:0 0 22px;padding:11px 14px;border-left:3px solid var(--acc);background:rgba(255,255,255,.08);border-radius:0 10px 10px 0;font-size:15.5px;line-height:1.45;color:#e7f2f4;max-width:640px}.proof b{color:#fff}
 .chk{list-style:none;padding:0;margin:0;display:grid;gap:10px}.chk li{display:flex;gap:10px;align-items:center;font-weight:500}
 .hb{display:flex;gap:12px;flex-wrap:wrap}
 .card-form{background:#fff;color:var(--ink);border-radius:16px;padding:26px;box-shadow:0 24px 60px rgba(0,0,0,.35);display:grid;gap:11px}
